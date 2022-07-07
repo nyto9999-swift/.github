@@ -1,1 +1,1 @@
--[Learning Path not yet](https://github.com/nyto9999-swift/.github/new/main)
+-[Learning Path](https://github.com/orgs/nyto9999-swift/projects/1)
